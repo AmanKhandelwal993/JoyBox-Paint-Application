@@ -1,0 +1,6 @@
+
+	-------------------------------- Joy Box ( The Paint Application ) ------------------------------- 
+
+Technology Used : - Graphics in C and C++. 
+
+Make a paint application using graphics in C and C++. The application provides user to draw lines, circle, rectangle, and many more features like pencil, brush, colour etc. This project was a small approach to make application similar to paint in windows using graphics in C. User can draw good paintings using this tool. 
